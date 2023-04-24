@@ -1,0 +1,61 @@
+#main-header{
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
+#top-div{
+	background-color: #02577A;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+#nav-div{
+	background-color: #02A9f7;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin: auto;
+	text-align: center;
+}
+
+#navli{
+	display: inline-block;
+	float: none;
+	font-family: helvetica;
+	padding-right: 20px;
+	
+}
+
+
+#body-div{
+	background-color: #89d6fb;
+	text-align: center;
+	margin-top: 10px;
+}
+#p-body{
+	text-align: center;
+	font-family: helvetica;
+	color: white;
+}
+#brand-li{
+	display: inline-block;
+	padding-right: 20px;
+}
+body{
+	background-color: #01303f;
+}
+#my-footer{
+	text-align: center;
+	background-color: #02577A;
+	margin: auto;
+}
+#product-li{
+	list-style: none;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align: center;
+}
+p{
+	font-family: helvetica;
+	color: white;
+}
