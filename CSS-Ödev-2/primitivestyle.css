@@ -1,0 +1,49 @@
+/* General div style */
+div{
+	text-align: center;
+}
+/* Search bar div style */
+div.divider-row{
+	margin: auto;
+	background-color: lightgray;
+}
+/* Horizontal div style */
+div.horizontal-divs{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	width: 100%;
+	height: 90px;
+}
+/* 1st Horizontal box style */
+div.horizontal-divs.first{
+	background-color: #7de5da;
+	float: left;
+	width: 39.7%;
+	margin-right: 0.3%;
+	padding-top: 5px;
+}
+/* 2nd Horizontal box style */
+div.horizontal-divs.second{
+	background-color: #70cbc2;
+	float: left;
+	width: 20%;
+	padding-top: 5px;
+}
+/* 3th Horizontal box style */
+div.horizontal-divs.third{
+	background-color: #62b3aa;
+	float: right;
+	width: 39.7%;
+	margin-left: 0.3%;
+	padding-top: 5px;
+}
+/* Box content p tags style */
+p.box-contents{
+	margin: 2px;
+}
+/* Footer text align centered */
+footer{
+	text-align: center;
+}
