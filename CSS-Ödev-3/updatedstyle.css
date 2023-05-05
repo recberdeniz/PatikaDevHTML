@@ -1,0 +1,142 @@
+/* top div style */
+#top-div{
+
+	float: right;
+	height: 50px;
+	width: 100%;
+	display: inline;
+}
+/* general a tags style */
+a{
+	font-family: arial;
+	color: #5f6368;
+	font-size: 14px;
+}
+/* images_tab style */
+#images_tab{
+	padding-top: 12.5px;
+}
+/* gmail_tab style */
+#gmail_tab{
+	padding-top: 12.5px;
+}
+/* top_button style */
+#top_button{
+	padding-top: 12.5px;
+}
+/* top items style */
+.top-items{
+	float: right;
+	margin-right: 15px;
+	
+}
+/* google logo style */
+.google_logo{
+	padding-top: 200px;
+	text-align: center;
+	width: 100%;
+}
+/* search_bar style */
+.search_bar_div{
+	margin: 30px auto;
+	text-align: center;
+	width: 480px;
+	border-bottom-left-radius: 16px;
+	border-bottom-right-radius: 16px;
+	border-top-left-radius: 16px;
+	border-top-right-radius: 16px;
+	height: 34px;
+	border: 1px solid lightgray;
+}
+/* search_icon div style */
+#search_icon{
+	width:480px;
+	height:34px;
+	padding-top:8.5px;
+	padding-left:5px;
+	padding-right: 10px;
+}
+/* search buttons style */
+.search_buttons{
+	margin: auto;
+	text-align: center;
+	width: 480px;
+	
+}
+/* google search button style */
+#g_search_button{
+	border: 1px solid #f8f9fa;
+	border-radius: 4px;
+	color: #3c4043;
+	font-family: arial,sans-serif;
+	font-size: 14px;
+	margin: 11px 4px;
+	padding: 0 16px;
+	line-height: 27px;
+	height: 36px;
+	min-width: 54px;
+	text-align: center;
+	cursor: pointer;
+	user-select: none;
+}
+/* Feel lucky button style */
+#fl_button{
+	border: 1px solid #f8f9fa;
+	border-radius: 4px;
+	font-family: arial,sans-serif;
+	font-size: 14px;
+	margin: 11px 4px;
+	padding: 0 16px;
+	line-height: 27px;
+	height: 36px;
+	min-width: 54px;
+	text-align: center;
+	cursor: pointer;
+	user-select: none;
+}
+/* footer country div style */
+.bottom_country{
+	margin-top: 190px;
+	padding: 15px 30px;
+	border-bottom: 1px solid #dadce0;
+	font-size: 15px;
+	color: #70757a;
+	font-family: arial,sans-serif;
+	background: #f2f2f2;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+/* footer link div style */
+.bottom_links{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 0 20px;
+	font-size: 15px;
+	font-family: arial,sans-serif;
+	background: #f2f2f2;
+}
+/* footer left side links style */
+.bottom_links.left_side{
+	justify-content: flex-start;
+	min-width: 30%;
+	order: 1;
+}
+/* footer general link style */
+.bottom_hrefs{
+	color: #70757a;
+	display: block;
+	padding: 15px;
+	white-space: nowrap;
+	text-decoration: none;
+}
+/* footer center link style */
+.bottom_links.center_side{
+	order: 2;
+}
+/* footer right side links style */
+.bottom_links.right_side{
+	justify-content: flex-end;
+	min-width: 30%;
+	order: 3;
+}
